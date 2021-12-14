@@ -1,6 +1,7 @@
 //
 // Created by linco on 23/10/2021.
 //
+/** \file */
 
 #include "Battle.h"
 #include <string>
