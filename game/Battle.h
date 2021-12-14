@@ -1,6 +1,7 @@
 //
 // Created by linco on 23/10/2021.
 //
+/** \file */
 
 #ifndef YOKAIHUNT_BATTLE_H
 #define YOKAIHUNT_BATTLE_H
