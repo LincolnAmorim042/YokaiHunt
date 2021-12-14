@@ -19,6 +19,7 @@ Rokurokubi - A Mulher-cobra - Rápido>Forte
 Yatagarasu - O Corvo de Três Pernas - Rápido>Técnico
 
 
+
 Tamamo-no-Mae - A Raposa de Nove Caudas - Rápido>Técnico>Forte
 		
 
