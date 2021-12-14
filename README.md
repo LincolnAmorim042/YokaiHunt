@@ -5,6 +5,7 @@ Requisitos: O jogo se inicia numa tela com silhuetas dos vários yokai, e o joga
 
 Durante o jogo o jogador deve aprender a batalhar contra a máquina analisando os padrões que ela segue para que assim ele consiga ganhar os turnos contra cada monstro diferente, antes que o monstro esgote os seus 4 pontos de vida. Como cada monstro terá padrões e comportamento próprio, o jogador terá que estar sempre atento aos comportamentos dele. Não é possível ver a barra de vida do monstro, mas ele demonstra sinais da fraqueza e/ou da mudança de seu comportamento visualmente.
 
+
 # Monstros
 Baku - A Anta Faminta - Forte>Técnico
 
@@ -18,13 +19,12 @@ Rokurokubi - A Mulher-cobra - Rápido>Forte
 
 Yatagarasu - O Corvo de Três Pernas - Rápido>Técnico
 
-
-
 Tamamo-no-Mae - A Raposa de Nove Caudas - Rápido>Técnico>Forte
 		
 
 # Profiles dos monstros:
 https://www.behance.net/gallery/9667537/Y-O-K-A-I
+
 
 # Música:
 https://www.youtube.com/watch?v=nZ1WROY6Os8
