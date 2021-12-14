@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\firstSFML.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\firstSFML.dir/objects.a @CMakeFiles\firstSFML.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\firstSFML.dir/objects.a -Wl,--no-whole-archive  -o firstSFML.exe -Wl,--out-implib,libfirstSFML.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\firstSFML.dir\linklibs.rsp

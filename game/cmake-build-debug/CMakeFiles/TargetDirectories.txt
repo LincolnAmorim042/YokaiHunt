@@ -1,0 +1,3 @@
+C:/Users/linco/Desktop/fakku/quarentena/PP/yokaihunt/cmake-build-debug/CMakeFiles/yokaihunt.dir
+C:/Users/linco/Desktop/fakku/quarentena/PP/yokaihunt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/linco/Desktop/fakku/quarentena/PP/yokaihunt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
